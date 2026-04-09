@@ -9,10 +9,10 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-color: #34db7a;
+  background-color: #fff;
 }
 .container {
-  background-color: #fff;
+  background-color: #dfdfdfa6;
   height: 260px;
   width: 400px;
   border-radius: 10px;
